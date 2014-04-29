@@ -1,2 +1,8 @@
-__author__ = 'cetoli'
-from browser import html,doc
+__author__ = 'Hiromi05'
+
+
+
+def main(html, doc):
+    tela = doc["main"]
+    splash = html.DIV("VOADORAS")
+    tela <= splash
